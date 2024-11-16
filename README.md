@@ -1,3 +1,3 @@
 # Practica
-git add
-git commit -m
+Para mejorar en git hub
+#git commit -m
