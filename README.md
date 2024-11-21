@@ -1,2 +1,2 @@
 # Practica
-Wow
+# git checkout -b nueva-caracteristica
